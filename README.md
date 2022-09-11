@@ -1,5 +1,5 @@
 # scripts
 #!/bin/bash
 
-#COMMANDS
+COMMANDS:
 chmod +x vpn-server-zabbix.sh
